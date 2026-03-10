@@ -1,0 +1,188 @@
+
+ch_1_ralph.png
+size: 1681,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 423, 803
+  orig: 423, 803
+  offset: 0, 0
+  index: -1
+body_leg
+  rotate: true
+  xy: 991, 101
+  size: 324, 246
+  orig: 324, 246
+  offset: 0, 0
+  index: -1
+close_eye1
+  rotate: false
+  xy: 1406, 118
+  size: 44, 19
+  orig: 46, 21
+  offset: 1, 2
+  index: -1
+close_eye2
+  rotate: false
+  xy: 991, 82
+  size: 38, 17
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+dote1
+  rotate: false
+  xy: 1664, 410
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dote2
+  rotate: false
+  xy: 1239, 102
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+eye_flare_1
+  rotate: false
+  xy: 885, 3
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+eye_flare_2
+  rotate: false
+  xy: 903, 4
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+eyes_below
+  rotate: true
+  xy: 1031, 2
+  size: 97, 34
+  orig: 97, 34
+  offset: 0, 0
+  index: -1
+hand_left_0
+  rotate: false
+  xy: 807, 73
+  size: 182, 352
+  orig: 182, 352
+  offset: 0, 0
+  index: -1
+hand_left_1
+  rotate: false
+  xy: 1266, 15
+  size: 142, 100
+  orig: 142, 100
+  offset: 0, 0
+  index: -1
+hand_left_finger_0
+  rotate: true
+  xy: 807, 5
+  size: 66, 76
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+hand_left_finger_1
+  rotate: true
+  xy: 1635, 157
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+hand_left_finger_2
+  rotate: false
+  xy: 980, 15
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+hand_left_finger_3
+  rotate: false
+  xy: 1570, 9
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+hand_left_finger_4
+  rotate: false
+  xy: 1627, 29
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+hand_right_0
+  rotate: false
+  xy: 1239, 117
+  size: 165, 308
+  orig: 165, 308
+  offset: 0, 0
+  index: -1
+hand_right_1
+  rotate: false
+  xy: 1067, 8
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+hand_right_2
+  rotate: false
+  xy: 1495, 92
+  size: 138, 136
+  orig: 138, 136
+  offset: 0, 0
+  index: -1
+hand_right_finger_0
+  rotate: true
+  xy: 1635, 81
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+hand_right_finger_1
+  rotate: false
+  xy: 1410, 32
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+hand_right_finger_2
+  rotate: false
+  xy: 1184, 9
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+hand_right_finger_3
+  rotate: false
+  xy: 1406, 139
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+hand_right_finger_4
+  rotate: false
+  xy: 1489, 7
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1410, 230
+  size: 195, 252
+  orig: 200, 252
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 885, 14
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
